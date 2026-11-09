@@ -1,1 +1,1 @@
-Welcome to Git and GitHub Practice.
+Welcome to Git and GitHub Version Control.
